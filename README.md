@@ -10,19 +10,21 @@ i build a hostage cricket score board and chatting that a user can see the score
 inside the web page. 
 
 
-tools are used.. 
+# tools are used.. 
 
 in this project we used the 
 
-firebase that get the real time data. 
+### firebase that get the real time data. 
 
 
 how to use it. 
 
-1. first goto fire base
+1. first goto #[firebase](https://console.firebase.google.com ) 
 
 2. make a firebase project 
 
+
+(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-eyjx7xb-5szosrn9MKa2FqpWShGuu6QtUA&usqp=CAU) 
 
 
 3. copy you firebase script code. 
@@ -39,7 +41,7 @@ how to use it.
 7. click ok and your project is ready now go for my script code.. 
 
 
-script code :
+# script code :
 
 steps 
 
