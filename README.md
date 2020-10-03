@@ -24,7 +24,7 @@ how to use it.
 2. make a firebase project 
 
 
-(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-eyjx7xb-5szosrn9MKa2FqpWShGuu6QtUA&usqp=CAU) 
+
 
 
 3. copy you firebase script code. 
@@ -38,6 +38,13 @@ how to use it.
 
    here you can set read:true and write:true for other user. 
    
+8: after it goto the # authentication and click the second option for 
+   sign in method click on phone and then
+   enable it at website and click ok. 
+   
+   # ✌️. NOW YOUR PROJECT IS RRAFY.. 
+   
+   
 7. click ok and your project is ready now go for my script code.. 
 
 
@@ -45,6 +52,11 @@ how to use it.
 
 steps 
 
-1: download my code and first
+1: download my all code file. 
 
+2: follw the steps that i write on a commemt on my code. 
+
+3: paste your firebase script code in a firebase configuration and now your 
+   project is ready.. 👍
    
+
