@@ -42,7 +42,7 @@ how to use it.
    sign in method click on phone and then
    enable it at website and click ok. 
    
-   # ✌️. NOW YOUR PROJECT IS RRAFY.. 
+   # ✌️. NOW YOUR PROJECT IS READY.. 
    
    
 7. click ok and your project is ready now go for my script code.. 
