@@ -6,7 +6,7 @@ hello friends this is my awesome small project for you.
 
 that work in real time data base means retrive the data without refresh the web page. 
 
-i build a hostage cricket score board and chatting taht a user can see the score at real time match scord and they can chat
+i build a hostage cricket score board and chatting that a user can see the score at real time match scord and they can chat
 inside the web page. 
 
 
@@ -22,6 +22,8 @@ how to use it.
 1. first goto fire base
 
 2. make a firebase project 
+
+
 
 3. copy you firebase script code. 
 
