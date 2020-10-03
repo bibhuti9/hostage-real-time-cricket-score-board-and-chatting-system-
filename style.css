@@ -1,0 +1,18 @@
+table{
+	position:relative;
+	top:50px;
+	margin:auto;
+	width:350px;
+	border:1px solid black;
+	padding:10px;
+	border-radius:20px;
+}
+tr td{
+	padding:10px;	
+}
+input , button{
+	border:1px solid black;
+	padding:5px;
+	outline:0;
+	border-radius:10px;
+}
