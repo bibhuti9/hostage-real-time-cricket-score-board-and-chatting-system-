@@ -95,7 +95,7 @@
 <div class="chat">
   <div class="chat-title">
     <h1>Chat Room</h1>
-    <h2>Firebase</h2>
+    <h2>online chat </h2>
     <figure class="avatar">
       <img src="https://p7.hiclipart.com/preview/349/273/275/livechat-online-chat-computer-icons-chat-room-web-chat-others.jpg" /></figure>
   </div>
