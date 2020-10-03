@@ -91,20 +91,13 @@
 
 <!-- TODO: Add SDKs for Firebase products that you want to use
      https://firebase.google.com/docs/web/setup#config-web-app -->
-<script>
-  // Your web app's Firebase configuration
-  var firebaseConfig = {
-    apiKey: "AIzaSyCXNatb1bjCg1wi4MPZSRTSxNABxqiVkic",
-    authDomain: "hoststar-e949a.firebaseapp.com",
-    databaseURL: "https://hoststar-e949a.firebaseio.com",
-    projectId: "hoststar-e949a",
-    storageBucket: "hoststar-e949a.appspot.com",
-    messagingSenderId: "2391375862",
-    appId: "1:2391375862:web:cefffe17639568618551d7"
-  };
-  // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
-</script>
+
+	
+	
+	
+	
+<!-- Enter your firebase script code that you copy. -->
+
 
 
 <script type="text/javascript">
